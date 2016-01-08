@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/sean/railsProject/testSean'
+let g:netrw_dirhist_2='/Users/sean/railsProject/kurisake'
+let g:netrw_dirhist_3='/Users/sean/railsProject'
+let g:netrw_dirhist_4='/Users/sean/railsProject/kurisake'
+let g:netrw_dirhist_5='/Users/sean/railsProject/garbageninja-web'
+let g:netrw_dirhist_6='/Users/sean/railsProject/practice_API'
+let g:netrw_dirhist_7='/Users/sean/railsProject/railsbridge/suggestotron'
+let g:netrw_dirhist_8='/Users/sean/Projects_Rails/sean_test'
+let g:netrw_dirhist_9='/Users/sean/Projects_Rails/EatWhat'
